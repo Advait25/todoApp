@@ -9,7 +9,7 @@
 
 # to run the app
 # open your browser and type
-localhost:300/todo
+localhost:3000/todo
 
 # how app works
 1. To add a new item to the list simply enter the item description in the text box and enter you will see your item added in the list
