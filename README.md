@@ -4,8 +4,13 @@
 # clone the above code
 # navigate to the code directory in terminal
 # in your docker engine run below commands in below sequence
+# Windows
 1. docker-compose build
 2. docker-compose up
+
+# Linux
+1. docker compose build
+2. docker compose up
 
 # to run the app
 # open your browser and type
